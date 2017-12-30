@@ -1,10 +1,10 @@
 index_htm_files
 index.htm
 about.htm
-offer.htm
-orders.htm
+eventos.htm
+humorbautista.htm
 contact.htm
-gallery.htm
+galeria.htm
 index_htm_files/803.png
 index_htm_files/803@2x.png
 index_htm_files/805.jpg
