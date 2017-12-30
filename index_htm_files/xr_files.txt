@@ -92,8 +92,6 @@ index_htm_files/1040.jpg
 index_htm_files/1040@2x.jpg
 index_htm_files/1022.png
 index_htm_files/1022@2x.png
-index_htm_files/872.png
-index_htm_files/872@2x.png
 index_htm_files/921.png
 index_htm_files/921@2x.png
 index_htm_files/1004.png
@@ -138,6 +136,14 @@ index_htm_files/1136.jpg
 index_htm_files/1137.jpg
 index_htm_files/952.png
 index_htm_files/952@2x.png
+index_htm_files/1144.png
+index_htm_files/1144@2x.png
+index_htm_files/1146.png
+index_htm_files/1146@2x.png
+index_htm_files/1147.png
+index_htm_files/1147@2x.png
+index_htm_files/1148.png
+index_htm_files/1148@2x.png
 index_htm_files/nivoslider_config.js
 index_htm_files/jquery.nivo.slider.pack.js
 index_htm_files/nivo-slider.css
