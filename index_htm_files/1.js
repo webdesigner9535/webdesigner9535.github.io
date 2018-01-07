@@ -13,9 +13,9 @@ window.local_nivoslider_1_data = [
  image: "index_htm_files/1051.jpg"
 },
 {
- image: "index_htm_files/1052.jpg"
+ image: "index_htm_files/1157.jpg"
 },
 {
- image: "index_htm_files/1053.jpg"
+ image: "index_htm_files/1158.jpg"
 }
 ];
